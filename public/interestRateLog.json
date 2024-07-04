@@ -1,0 +1,1532 @@
+[
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:18:36.3045577+01:00",
+    "AnnualizedRate": 0.048363233092330613145678394,
+    "AbsoluteRate": 0.0013950800546838972607112493
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:18:36.3447024+01:00",
+    "AnnualizedRate": 0.0928169800549290837041722196,
+    "AbsoluteRate": 0.0097975941095753010513889246
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:18:36.3868625+01:00",
+    "AnnualizedRate": 0.0945829837978408457564400489,
+    "AbsoluteRate": 0.026309292308957267683648718
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:18:36.4229421+01:00",
+    "AnnualizedRate": 0.1031599966759058665899439478,
+    "AbsoluteRate": 0.0544144238494171774745735107
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:18:36.4594426+01:00",
+    "AnnualizedRate": 0.1075608213595128828222598685,
+    "AbsoluteRate": 0.0835522867317128868832091583
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:02.9645866+01:00",
+    "AnnualizedRate": 0.0532681234978971394171785402,
+    "AbsoluteRate": 0.0015359128228107197147961655
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:03.0033033+01:00",
+    "AnnualizedRate": 0.0969680786153241068543602202,
+    "AbsoluteRate": 0.0102345877234660039705595557
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:03.0478347+01:00",
+    "AnnualizedRate": 0.0952623797929859128602263269,
+    "AbsoluteRate": 0.0264971057358793155354281613
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:03.09011+01:00",
+    "AnnualizedRate": 0.1035763661786347956106261113,
+    "AbsoluteRate": 0.0546327788112066291237997701
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:03.1282129+01:00",
+    "AnnualizedRate": 0.1074298869678550490856452241,
+    "AbsoluteRate": 0.0834492608461781017565336746
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:54.0031799+01:00",
+    "AnnualizedRate": 0.0500993523555425545217385921,
+    "AbsoluteRate": 0.0014444645983270640392585272
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:54.0490244+01:00",
+    "AnnualizedRate": 0.0967190402206915124242061669,
+    "AbsoluteRate": 0.0102081461759686523519643659
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:54.0914974+01:00",
+    "AnnualizedRate": 0.0957082368494420316390220471,
+    "AbsoluteRate": 0.0266209653783274233513307589
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:54.1310697+01:00",
+    "AnnualizedRate": 0.1040056849933433677217808142,
+    "AbsoluteRate": 0.0548590605913660315838318287
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:25:54.169948+01:00",
+    "AnnualizedRate": 0.1074007771050532893066152231,
+    "AbsoluteRate": 0.0834264750906905925409369581
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:14.5299246+01:00",
+    "AnnualizedRate": 0.0461760833090132757284329432,
+    "AbsoluteRate": 0.0013313188436480481192772699
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:14.5676862+01:00",
+    "AnnualizedRate": 0.09499030380239107124732976,
+    "AbsoluteRate": 0.0100256260464106737590171599
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:14.6192053+01:00",
+    "AnnualizedRate": 0.096047567867411139628936388,
+    "AbsoluteRate": 0.0267152867855744681394747762
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:14.6687909+01:00",
+    "AnnualizedRate": 0.1033595101319687950939927956,
+    "AbsoluteRate": 0.0545181605072690053956968354
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:14.7100997+01:00",
+    "AnnualizedRate": 0.1073191527924044364403102994,
+    "AbsoluteRate": 0.0833630012859995897968697849
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:35.1641429+01:00",
+    "AnnualizedRate": 0.0518454473585357518705502202,
+    "AbsoluteRate": 0.0014947403429682167797302629
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:35.1984127+01:00",
+    "AnnualizedRate": 0.0932693637132682836596803822,
+    "AbsoluteRate": 0.0098439306831824503717576732
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:35.2397595+01:00",
+    "AnnualizedRate": 0.0953526936654672711712609208,
+    "AbsoluteRate": 0.0265219476680074394366034197
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:35.2785016+01:00",
+    "AnnualizedRate": 0.1029999921398232145655917947,
+    "AbsoluteRate": 0.0543284613003745041421334856
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:26:35.3211856+01:00",
+    "AnnualizedRate": 0.107068349416393123674688656,
+    "AbsoluteRate": 0.0831681131277682133532191208
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:33.4882419+01:00",
+    "AnnualizedRate": 0.0529536198263390987794693388,
+    "AbsoluteRate": 0.0015265917919403679919752276
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:33.5279593+01:00",
+    "AnnualizedRate": 0.0955694253216737214308375496,
+    "AbsoluteRate": 0.0100865093735712394345469729
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:33.5740496+01:00",
+    "AnnualizedRate": 0.0965235991945807391237754561,
+    "AbsoluteRate": 0.0268474515327211583247280437
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:33.6678576+01:00",
+    "AnnualizedRate": 0.103769780359054478255626216,
+    "AbsoluteRate": 0.0547343023018532934088980361
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:33.7049869+01:00",
+    "AnnualizedRate": 0.108000193294367935112594886,
+    "AbsoluteRate": 0.0838917470467991216103119468
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:54.0404612+01:00",
+    "AnnualizedRate": 0.05367708977709720103191864,
+    "AbsoluteRate": 0.0015474136145788522093715416
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:54.0811812+01:00",
+    "AnnualizedRate": 0.0965138755500861836542617942,
+    "AbsoluteRate": 0.0101861248579226096251893018
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:54.131585+01:00",
+    "AnnualizedRate": 0.0968879128292571182419963693,
+    "AbsoluteRate": 0.0269487199936798534579913585
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:54.1806386+01:00",
+    "AnnualizedRate": 0.1034640543199266800765569153,
+    "AbsoluteRate": 0.0545729770588753070717012657
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-17T23:27:54.2211947+01:00",
+    "AnnualizedRate": 0.1074473471634111563335216054,
+    "AbsoluteRate": 0.0834622406197351687215286155
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:00:59.2702665+01:00",
+    "AnnualizedRate": 0.0497191740233228929623746802,
+    "AbsoluteRate": 0.0014301841643496207498261981
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:00:59.3129006+01:00",
+    "AnnualizedRate": 0.0986309371704407833844563547,
+    "AbsoluteRate": 0.0104033517033711001500342726
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:00:59.3734724+01:00",
+    "AnnualizedRate": 0.0946709202316438856535691287,
+    "AbsoluteRate": 0.0263261187570604087730468063
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:00:59.4141141+01:00",
+    "AnnualizedRate": 0.1034455856610109611167859256,
+    "AbsoluteRate": 0.0545567235726390612109067675
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:00:59.4533798+01:00",
+    "AnnualizedRate": 0.1077172310352690546830039896,
+    "AbsoluteRate": 0.083665098291395146153040961
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:19.9458115+01:00",
+    "AnnualizedRate": 0.0586978560920443732722815683,
+    "AbsoluteRate": 0.0016884196600521393712864688
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:20.010304+01:00",
+    "AnnualizedRate": 0.0937285349060063949522059244,
+    "AbsoluteRate": 0.009886196704191020965044207
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:20.0532247+01:00",
+    "AnnualizedRate": 0.0939008601607238279610662985,
+    "AbsoluteRate": 0.0261119186389963279797947746
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:20.0938583+01:00",
+    "AnnualizedRate": 0.1034323069440963674290326689,
+    "AbsoluteRate": 0.0545496526129809526188545646
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:20.1401189+01:00",
+    "AnnualizedRate": 0.1074839430574637129285946515,
+    "AbsoluteRate": 0.0834838305762238435791856293
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:40.4696288+01:00",
+    "AnnualizedRate": 0.0559441453828844155970470626,
+    "AbsoluteRate": 0.0016091738966337207378853775
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:40.5117001+01:00",
+    "AnnualizedRate": 0.0944387725855606935960428436,
+    "AbsoluteRate": 0.0099610489893300142590061787
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:40.5553387+01:00",
+    "AnnualizedRate": 0.0941988609166103042253709848,
+    "AbsoluteRate": 0.0261947253455241446978170224
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:40.5914278+01:00",
+    "AnnualizedRate": 0.1035806399496070479121558597,
+    "AbsoluteRate": 0.0546278153322538989833396863
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:01:40.630266+01:00",
+    "AnnualizedRate": 0.107587427282556550662676356,
+    "AbsoluteRate": 0.083564137883021835026891959
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:01.0017328+01:00",
+    "AnnualizedRate": 0.0615999409588718689534174593,
+    "AbsoluteRate": 0.0017718167408249518129313214
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:01.0475449+01:00",
+    "AnnualizedRate": 0.0944393556333608765231465877,
+    "AbsoluteRate": 0.0099610489893300142590061787
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:01.0932904+01:00",
+    "AnnualizedRate": 0.0941907183725825971174132886,
+    "AbsoluteRate": 0.0261923997328996390874266054
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:01.1346837+01:00",
+    "AnnualizedRate": 0.1035807678896660009036056734,
+    "AbsoluteRate": 0.0546278153322538989833396863
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:01.1668903+01:00",
+    "AnnualizedRate": 0.1075875174865688360086657549,
+    "AbsoluteRate": 0.083564137883021835026891959
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:21.5079589+01:00",
+    "AnnualizedRate": 0.0588598858887020409568658594,
+    "AbsoluteRate": 0.0016929654786984759785867691
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:21.5435388+01:00",
+    "AnnualizedRate": 0.0937149553020596086195105634,
+    "AbsoluteRate": 0.0098845815122680000200989966
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:21.5856761+01:00",
+    "AnnualizedRate": 0.0936198770099891690101259047,
+    "AbsoluteRate": 0.0260336002725063951182237227
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:21.6229301+01:00",
+    "AnnualizedRate": 0.1035272519505400392745826165,
+    "AbsoluteRate": 0.0545995241187583709883284077
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:21.65935+01:00",
+    "AnnualizedRate": 0.1073204227818510098068156675,
+    "AbsoluteRate": 0.0833566134210749528329798135
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:41.9928018+01:00",
+    "AnnualizedRate": 0.0566292137727011582725610902,
+    "AbsoluteRate": 0.0016287686837234651060045827
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:42.1189164+01:00",
+    "AnnualizedRate": 0.0972707255926716950182975804,
+    "AbsoluteRate": 0.0102595627913276429674248513
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:42.1558666+01:00",
+    "AnnualizedRate": 0.0936120057324660068990163559,
+    "AbsoluteRate": 0.0260313503848320372605397676
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:42.1932029+01:00",
+    "AnnualizedRate": 0.1035273799931434989942315665,
+    "AbsoluteRate": 0.0545995241187583709883284077
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:02:42.2236186+01:00",
+    "AnnualizedRate": 0.1073205128832876004103484513,
+    "AbsoluteRate": 0.0833566134210749528329798135
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:02.5872229+01:00",
+    "AnnualizedRate": 0.0595208794516950758491687586,
+    "AbsoluteRate": 0.0017118998632294420386497718
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:02.6182377+01:00",
+    "AnnualizedRate": 0.0941131184893742844061665347,
+    "AbsoluteRate": 0.0099264551804838317527960819
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:02.6602031+01:00",
+    "AnnualizedRate": 0.0937436621545624620215481385,
+    "AbsoluteRate": 0.0260679000632534779104265678
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:02.7180295+01:00",
+    "AnnualizedRate": 0.1035789496997951796604003957,
+    "AbsoluteRate": 0.0546266541624154686653876024
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:02.7541648+01:00",
+    "AnnualizedRate": 0.1075765287512546065250448438,
+    "AbsoluteRate": 0.0835553927507180960350782781
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:23.0572391+01:00",
+    "AnnualizedRate": 0.0606543828989341075705899949,
+    "AbsoluteRate": 0.0017444615631247986273344896
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:23.0934656+01:00",
+    "AnnualizedRate": 0.0909546842313370301050290556,
+    "AbsoluteRate": 0.0095932645016986315989621068
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:23.1312377+01:00",
+    "AnnualizedRate": 0.0936113446090432095837708839,
+    "AbsoluteRate": 0.0260310449104419544954548142
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:23.1722398+01:00",
+    "AnnualizedRate": 0.1034877770369093588060595734,
+    "AbsoluteRate": 0.0545785033560049881587813771
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:23.2190614+01:00",
+    "AnnualizedRate": 0.1072861925183419793481206059,
+    "AbsoluteRate": 0.0833298170796097580425216628
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:43.6445483+01:00",
+    "AnnualizedRate": 0.058866543645311872515665237,
+    "AbsoluteRate": 0.0016930036534065289039667966
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:43.6827384+01:00",
+    "AnnualizedRate": 0.0987199626067365363108492087,
+    "AbsoluteRate": 0.010412227348560920656945989
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:43.7267217+01:00",
+    "AnnualizedRate": 0.0942243686424889940399676735,
+    "AbsoluteRate": 0.026201450492724484720499595
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:43.7653937+01:00",
+    "AnnualizedRate": 0.1032559740677124446470696732,
+    "AbsoluteRate": 0.0544561851718997676467931397
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:03:43.7982713+01:00",
+    "AnnualizedRate": 0.1074503754197146022923066964,
+    "AbsoluteRate": 0.0834572687871942235171131379
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:04.162191+01:00",
+    "AnnualizedRate": 0.0557477528444158988108881239,
+    "AbsoluteRate": 0.0016032708614685367370323184
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:04.2023031+01:00",
+    "AnnualizedRate": 0.098720571625351221144165024,
+    "AbsoluteRate": 0.010412227348560920656945989
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:04.2370679+01:00",
+    "AnnualizedRate": 0.0942191973178586464495462328,
+    "AbsoluteRate": 0.0261999511979552617937337725
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:04.2700826+01:00",
+    "AnnualizedRate": 0.1032561013682546391403964235,
+    "AbsoluteRate": 0.0544561851718997676467931397
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:04.3122125+01:00",
+    "AnnualizedRate": 0.1074504654097822201376728432,
+    "AbsoluteRate": 0.0834572687871942235171131379
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:24.6476372+01:00",
+    "AnnualizedRate": 0.0548158214985139834950015748,
+    "AbsoluteRate": 0.0015764334850994463479240952
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:24.6797656+01:00",
+    "AnnualizedRate": 0.0980814943054566474199483206,
+    "AbsoluteRate": 0.0103447590839458889524839754
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:24.7172148+01:00",
+    "AnnualizedRate": 0.0942194173599644225469838533,
+    "AbsoluteRate": 0.0261999511979552617937337725
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:24.7568336+01:00",
+    "AnnualizedRate": 0.1032562285577590394107357044,
+    "AbsoluteRate": 0.0544561851718997676467931397
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:24.7911741+01:00",
+    "AnnualizedRate": 0.1074505552465484813441017574,
+    "AbsoluteRate": 0.0834572687871942235171131379
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:45.1079595+01:00",
+    "AnnualizedRate": 0.0539959362207212837067376251,
+    "AbsoluteRate": 0.0015528195924841852513623904
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:45.1406954+01:00",
+    "AnnualizedRate": 0.0979399445455420493528872435,
+    "AbsoluteRate": 0.0103297661362536596848257501
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:45.1852797+01:00",
+    "AnnualizedRate": 0.0942193676868857831883078044,
+    "AbsoluteRate": 0.0261998762332168006473954814
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:45.2385475+01:00",
+    "AnnualizedRate": 0.103256355716290619765257321,
+    "AbsoluteRate": 0.0544561851718997676467931397
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:04:45.2743339+01:00",
+    "AnnualizedRate": 0.107450645101881320211780257,
+    "AbsoluteRate": 0.0834572687871942235171131379
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:05.6389938+01:00",
+    "AnnualizedRate": 0.0582002004984668973999168725,
+    "AbsoluteRate": 0.0016736882813859281398746732
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:05.6753719+01:00",
+    "AnnualizedRate": 0.0976576214106353208676182597,
+    "AbsoluteRate": 0.0102999258095896408987736806
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:05.7321445+01:00",
+    "AnnualizedRate": 0.0941105914971527891168801884,
+    "AbsoluteRate": 0.0261695671791279744473743964
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:05.7842472+01:00",
+    "AnnualizedRate": 0.103765703777320818141550039,
+    "AbsoluteRate": 0.0547247417334888855688819767
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:05.8182553+01:00",
+    "AnnualizedRate": 0.1075793994954571598023349127,
+    "AbsoluteRate": 0.0835572026654574711737234763
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:26.1219884+01:00",
+    "AnnualizedRate": 0.0595005919169942141341222451,
+    "AbsoluteRate": 0.0017110455522596256430192377
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:26.165458+01:00",
+    "AnnualizedRate": 0.095705459715422590567556696,
+    "AbsoluteRate": 0.0100939696024475970752288196
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:26.2222022+01:00",
+    "AnnualizedRate": 0.0933585189960990657990367499,
+    "AbsoluteRate": 0.0259603758424351138624743577
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:26.2666137+01:00",
+    "AnnualizedRate": 0.103358137541197669939903541,
+    "AbsoluteRate": 0.0545097292388455456492788314
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:26.313087+01:00",
+    "AnnualizedRate": 0.1072950944852176990795396202,
+    "AbsoluteRate": 0.0833363124862331283451296546
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:46.6425173+01:00",
+    "AnnualizedRate": 0.0582248489666522162983814223,
+    "AbsoluteRate": 0.0016743214033061776988633276
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:46.6819956+01:00",
+    "AnnualizedRate": 0.0963456016386302444410317023,
+    "AbsoluteRate": 0.0101614221209335218706172258
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:46.7235693+01:00",
+    "AnnualizedRate": 0.0933587372561036887069811778,
+    "AbsoluteRate": 0.0259603758424351138624743577
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:46.7646436+01:00",
+    "AnnualizedRate": 0.1033582649271034864944574701,
+    "AbsoluteRate": 0.0545097292388455456492788314
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:05:46.8024013+01:00",
+    "AnnualizedRate": 0.1072951842376189405814844003,
+    "AbsoluteRate": 0.0833363124862331283451296546
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:07.1369547+01:00",
+    "AnnualizedRate": 0.0506390401456475443792166303,
+    "AbsoluteRate": 0.0014561499796255920551126049
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:07.1781983+01:00",
+    "AnnualizedRate": 0.0963461953546334127382231125,
+    "AbsoluteRate": 0.0101614221209335218706172258
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:07.2205981+01:00",
+    "AnnualizedRate": 0.0933589554709349324933231756,
+    "AbsoluteRate": 0.0259603758424351138624743577
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:07.38578+01:00",
+    "AnnualizedRate": 0.1033583930783720704014966954,
+    "AbsoluteRate": 0.0545097292388455456492788314
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:07.4266754+01:00",
+    "AnnualizedRate": 0.1072952745815885003862541965,
+    "AbsoluteRate": 0.0833363124862331283451296546
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:27.7662959+01:00",
+    "AnnualizedRate": 0.0589215349608249463654430777,
+    "AbsoluteRate": 0.0016942785620049655158351438
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:27.8022133+01:00",
+    "AnnualizedRate": 0.0985855490722957513907882946,
+    "AbsoluteRate": 0.0103975373776172165869129069
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:27.8439227+01:00",
+    "AnnualizedRate": 0.0942215772972999928825211831,
+    "AbsoluteRate": 0.0262001839485303945747702649
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:27.8774869+01:00",
+    "AnnualizedRate": 0.1038258853560818882637919047,
+    "AbsoluteRate": 0.0547562104743612646285297439
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:27.9135017+01:00",
+    "AnnualizedRate": 0.107621383578701012977161317,
+    "AbsoluteRate": 0.0835895316509091988583466627
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:48.2213267+01:00",
+    "AnnualizedRate": 0.0531355642239434030113604071,
+    "AbsoluteRate": 0.0015278695076659201596546054
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:48.2599006+01:00",
+    "AnnualizedRate": 0.0977258499626522489002982709,
+    "AbsoluteRate": 0.0103068039627911341741975125
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:48.3024575+01:00",
+    "AnnualizedRate": 0.0938903958922540766768024569,
+    "AbsoluteRate": 0.0261080314604844882229317749
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:48.3581451+01:00",
+    "AnnualizedRate": 0.1036464158861715854773250472,
+    "AbsoluteRate": 0.0546614936631606547703776963
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:06:48.3918421+01:00",
+    "AnnualizedRate": 0.1074961920920722527498927317,
+    "AbsoluteRate": 0.0834922256155722007355031734
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:08.7650264+01:00",
+    "AnnualizedRate": 0.0508780284992372475823085914,
+    "AbsoluteRate": 0.0014629227782708683230759251
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:08.862936+01:00",
+    "AnnualizedRate": 0.0982251681652926078099355042,
+    "AbsoluteRate": 0.0103594011368455629162912242
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:08.90383+01:00",
+    "AnnualizedRate": 0.0952821515620002627774283315,
+    "AbsoluteRate": 0.0264949736637152478970531934
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:08.9463609+01:00",
+    "AnnualizedRate": 0.1040579556939548881603854082,
+    "AbsoluteRate": 0.0548784653672324646315338716
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:08.991093+01:00",
+    "AnnualizedRate": 0.1078824610699538021865059372,
+    "AbsoluteRate": 0.0837921700221197043856560523
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:29.3066363+01:00",
+    "AnnualizedRate": 0.0541598096809343489484956179,
+    "AbsoluteRate": 0.0015572502847846582497853756
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:29.3527176+01:00",
+    "AnnualizedRate": 0.0985893236740572553474873053,
+    "AbsoluteRate": 0.0103977430520530632059571498
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:29.4118633+01:00",
+    "AnnualizedRate": 0.0954224633253576538177062501,
+    "AbsoluteRate": 0.0265339279043516535734596673
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:29.4493586+01:00",
+    "AnnualizedRate": 0.1041339896426556844755601035,
+    "AbsoluteRate": 0.0549184967269919907806943263
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:29.4818211+01:00",
+    "AnnualizedRate": 0.1079355044576743557800050055,
+    "AbsoluteRate": 0.0838332986219414945177875196
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:49.8317311+01:00",
+    "AnnualizedRate": 0.0553905773915649088056789415,
+    "AbsoluteRate": 0.0015926023452316390799340879
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:49.8717889+01:00",
+    "AnnualizedRate": 0.0984750517255406182145790979,
+    "AbsoluteRate": 0.0103856272644521631679789355
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:49.9531122+01:00",
+    "AnnualizedRate": 0.0948258781076709629474100418,
+    "AbsoluteRate": 0.026367974915556826204147246
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:49.9981027+01:00",
+    "AnnualizedRate": 0.1041695229609076712764844702,
+    "AbsoluteRate": 0.0549371685187778203855050162
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:07:50.0369479+01:00",
+    "AnnualizedRate": 0.1079602939421464787377366875,
+    "AbsoluteRate": 0.0838524821984407271806558552
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:10.6371081+01:00",
+    "AnnualizedRate": 0.0556344404220881834778056726,
+    "AbsoluteRate": 0.001599577246013675455466646
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:10.6926612+01:00",
+    "AnnualizedRate": 0.0982623280746671569571797602,
+    "AbsoluteRate": 0.0103631275845101103436803611
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:10.8471568+01:00",
+    "AnnualizedRate": 0.0948261040480775776549022365,
+    "AbsoluteRate": 0.026367974915556826204147246
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:10.9403669+01:00",
+    "AnnualizedRate": 0.1041696541303399304853656744,
+    "AbsoluteRate": 0.0549371685187778203855050162
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:11.1866493+01:00",
+    "AnnualizedRate": 0.1079603871623820477921449884,
+    "AbsoluteRate": 0.0838524821984407271806558552
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:31.5418411+01:00",
+    "AnnualizedRate": 0.0491677569891272291686652617,
+    "AbsoluteRate": 0.0014136173825447947319132222
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:31.5808863+01:00",
+    "AnnualizedRate": 0.0964842501186921794072591155,
+    "AbsoluteRate": 0.0101755406550345422191468371
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:31.7434825+01:00",
+    "AnnualizedRate": 0.0941410306253387410767821838,
+    "AbsoluteRate": 0.0261774164800102339539767512
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:31.8265156+01:00",
+    "AnnualizedRate": 0.1037983975397691568857347929,
+    "AbsoluteRate": 0.0547413058444290525216746042
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:31.8675655+01:00",
+    "AnnualizedRate": 0.1077013922010756183412866964,
+    "AbsoluteRate": 0.0836512510236390989531417931
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:52.1705068+01:00",
+    "AnnualizedRate": 0.0513440741721544817864726804,
+    "AbsoluteRate": 0.0014761548797356688464058823
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:52.2040498+01:00",
+    "AnnualizedRate": 0.0964848484017917951505639521,
+    "AbsoluteRate": 0.0101755406550345422191468371
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:52.2429012+01:00",
+    "AnnualizedRate": 0.094168217387506760814822436,
+    "AbsoluteRate": 0.026184914980872449075618557
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:52.2749799+01:00",
+    "AnnualizedRate": 0.1037985251603690138291962626,
+    "AbsoluteRate": 0.0547413058444290525216746042
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:08:52.3071513+01:00",
+    "AnnualizedRate": 0.1077014820754949276929873708,
+    "AbsoluteRate": 0.0836512510236390989531417931
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:12.6855538+01:00",
+    "AnnualizedRate": 0.0535456648465596080883656431,
+    "AbsoluteRate": 0.0015394163252678847650207652
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:12.7532353+01:00",
+    "AnnualizedRate": 0.0981908735119130903387226708,
+    "AbsoluteRate": 0.0103553984756583449737037002
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:12.8059402+01:00",
+    "AnnualizedRate": 0.0948255092135640091733938706,
+    "AbsoluteRate": 0.0263676232082423196992565788
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:12.8442495+01:00",
+    "AnnualizedRate": 0.1041547396169867343651226147,
+    "AbsoluteRate": 0.0549290984259719318639904752
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:12.8768056+01:00",
+    "AnnualizedRate": 0.1079499839770046700993072242,
+    "AbsoluteRate": 0.0838441909083238804151159193
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:33.213669+01:00",
+    "AnnualizedRate": 0.0519968526937658491018223428,
+    "AbsoluteRate": 0.0014948547519467426679924596
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:33.2592021+01:00",
+    "AnnualizedRate": 0.0962987290928255793443668257,
+    "AbsoluteRate": 0.010155786666750672553379178
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:33.3224574+01:00",
+    "AnnualizedRate": 0.0941239531974969605578839238,
+    "AbsoluteRate": 0.0261724840368188800830218178
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:33.3588355+01:00",
+    "AnnualizedRate": 0.103485617040461464547516568,
+    "AbsoluteRate": 0.0545761494236708637357762845
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:33.3901972+01:00",
+    "AnnualizedRate": 0.1075267886338448702969666909,
+    "AbsoluteRate": 0.0835154273435711007448846978
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTM24",
+    "Expiry": "2024-06-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:53.7088385+01:00",
+    "AnnualizedRate": 0.0537275533928528416445004976,
+    "AbsoluteRate": 0.0015445756568665771514865528
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTN24",
+    "Expiry": "2024-07-26T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:53.7454172+01:00",
+    "AnnualizedRate": 0.0967174718449414495741301275,
+    "AbsoluteRate": 0.0101998849819195688029621169
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTU24",
+    "Expiry": "2024-09-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:53.7820693+01:00",
+    "AnnualizedRate": 0.0943281690424946119690232813,
+    "AbsoluteRate": 0.0262292079166703233325209909
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTZ24",
+    "Expiry": "2024-12-27T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:53.818681+01:00",
+    "AnnualizedRate": 0.1035730393183111028257453445,
+    "AbsoluteRate": 0.0546221869082061357427873485
+  },
+  {
+    "ExchangeName": "Bitmex",
+    "BaseAsset": "Bitcoin",
+    "Ticker": "XBTH25",
+    "Expiry": "2025-03-28T12:00:00Z",
+    "TimeStamp": "2024-06-18T00:09:53.8517475+01:00",
+    "AnnualizedRate": 0.1075877787085505618915576176,
+    "AbsoluteRate": 0.0835627281712612766886914214
+  }
+]
