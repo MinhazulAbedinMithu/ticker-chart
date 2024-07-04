@@ -5,7 +5,7 @@ import ChartComponent from '../components/Chart';
 import past_day from "@/public/past_day.json"
 import past_month from "@/public/past_month_partial.json"
 import past_week from "@/public/past_week.json"
-import past_year from "@/public/past_year_partial.json"
+import past_year from "@/public/crypto_futures_data.json"
 
 // const TICKERS = ['XBTM24', 'XBTH25', 'XBTN24', 'XBTZ24', 'XBTU24'];
 const FILTERS = ['Last Day', 'Last Week', 'Last Month', 'Last Year'];
@@ -29,7 +29,7 @@ const HomePage = () => {
       const tickerArray = Array.from(new Set(filePath.map(item => item.Ticker)));
       const exchangerArray = Array.from(new Set(filePath.map(item => item.ExchangeName)));
       setTickers(tickerArray);
-      setExchangeNames(["All",...exchangerArray])
+      setExchangeNames(["All", ...exchangerArray])
       setSelectedTab("All")
       setSelectedExchange("All")
     };
@@ -53,6 +53,8 @@ const HomePage = () => {
 
   const handleTabClick = (tab) => {
     setSelectedTab(tab);
+    console.log(tab);
+    setSelectedExchange("All")
   };
   const handleFilterChange = (filter) => {
     setSelectedFilter(filter);
@@ -114,9 +116,9 @@ const HomePage = () => {
       </div>
       </div>
       {selectedTab === 'All' ? (
-        tickers.map(ticker => <ChartComponent key={ticker} data={data} ticker={ticker} filter={selectedFilter} exchangeFilter={selectedExchange} />)
+        tickers.map(ticker => <ChartComponent key={ticker} data={data} ticker={ticker} ticketType="All" filter={selectedFilter} exchangeFilter={selectedExchange} setExchangeNames={setExchangeNames} />)
       ) : (
-        <ChartComponent key={selectedTab} data={data} ticker={selectedTab} filter={selectedFilter} exchangeFilter={selectedExchange} />
+        <ChartComponent key={selectedTab} data={data} ticker={selectedTab} ticketType="single" filter={selectedFilter} exchangeFilter={selectedExchange} setExchangeNames={setExchangeNames} />
       )}
     </div>
   );

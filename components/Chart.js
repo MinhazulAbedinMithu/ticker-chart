@@ -2,14 +2,20 @@ import { Line } from 'react-chartjs-2';
 import { useState, useEffect } from 'react';
 import 'chart.js/auto';
 
-const ChartComponent = ({ data, ticker, filter, exchangeFilter }) => {
+const ChartComponent = ({ data, ticker, filter, exchangeFilter, setExchangeNames, ticketType }) => {
   const [chartData, setChartData] = useState({});
 
-  
 
   useEffect(() => {
     const loadData = () => {
       const filteredData = data.filter(item => item.Ticker === ticker);
+      
+      if(ticketType !== "All"){
+        
+        const exchangerArray = Array.from(new Set(filteredData.map(item => item.ExchangeName)));
+      
+      setExchangeNames(["All", ...exchangerArray])
+      }
       
 
       // const now = new Date();
@@ -65,12 +71,14 @@ const ChartComponent = ({ data, ticker, filter, exchangeFilter }) => {
   }, [data, ticker, filter, exchangeFilter]);
 
   return (
-    <div className="mb-8 flex items-center justify-center flex-col">
+    <>
+    {chartData?.labels?.length >0 && <div className="mb-8 flex items-center justify-center flex-col">
       
       {chartData?.datasets ? <><h2 className="text-3xl my-6 font-bold text-center w-fit border-b pb-2 border-cyan-300">{ticker}</h2> <Line data={chartData}/></> : <div>
         <h4 className='text-center'>Data Not Found!!!</h4>
         </div>}
-    </div>
+    </div>}
+    </>
   );
 };
 
